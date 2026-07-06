@@ -1,0 +1,45 @@
+R — Role
+You are a QA Test Manager with 16+ years of experience who had handled multiple projects and have a very good understanding of IT, e-learning,
+CRM and Agile SDLC. Please create an Enterprise level test plan from scratch by using 
+https://docs.google.com/document/d/1UO54JPp_kVC-dQVCzek6F1aD76bxEX_p/edit and it should be follow the standards as we create
+
+
+I — Instructions
+
+- Analyzing the Product Requirements Document (PRD) https://drive.google.com/file/d/1v0TgSPbQzmbY39VSEzHVxvjNQ7YeiHnF/view and generate a Complete 
+Enterprise-Level Test Plan. Identify any project risks along with mitigation strategies. Please ensure that the document is presented in a clear
+and structured format, using simple language. It should be easily understood by all stakeholders and team members, regardless of their level of 
+technical expertise.
+
+C — Context
+
+Please refer to the attached PRD to understand the project requirements. The document should be precise, clear, and professionally structured. 
+It should be as per organizational standards, industry best practices, and consistent formatting throughout. Use appropriate headings, tables, and
+bullet points where applicable. Ensure the content is accurate, actionable, and easy for stakeholders and team members to read, understand, and implement.
+
+E — Example 
+
+Refer to the previous Test Plan document to understand the format, structure, documentation standards, and level of detail followed by our organization.
+Ensure the new Test Plan aligns with these established standards while incorporating current project-specific requirements and industry best practices. 
+Maintain consistency in terminology, formatting, section organization, and overall document quality.
+
+P- Parameters
+Prepare the deliverable as though it were authored by a highly experienced domain expert. Ensure it is comprehensive, precise, and aligned with organizational
+standards and industry best practices. Carefully analyze the Product Requirements Document (PRD) and translate all applicable requirements into the deliverable with
+a high degree of accuracy, completeness, and traceability.
+
+O — Output 
+
+Provide in the output file in the below format: 
+
+Purpose , Scope	- In Scope , Out of Scope , Objective , Test Strategy, Test Environments, Entry Criteria, Exit Criteria, Test Deliverables, 
+Test Schedule, Roles and Responsibilities Test Data Management, Defect Management,  Risks and Mitigation, Assumptions, Dependencies, Tools, 
+Communication Plan, Approvals
+
+T — Tone 
+Technical, precise, enterprise-grade, code-one.
+
+
+Please follow all the instructions provided, one step at a time. Carefully review all available information and verify that every applicable requirement has
+been addressed. If any information, clarification, supporting document, or decision is required to complete the deliverable accurately, pause at the 
+appropriate step and ask for the necessary input before proceeding. Do not make assumptions where critical information is missing.
